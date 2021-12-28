@@ -61,3 +61,5 @@ function greet () {
 ## About me
 I follow my own path, and I like it. On the road I walk, I always meet interesting people and things to do. All I do is what I love, know how to do and how to do it right. Always achieve their goals, if the goal is clearly defined, then the case comes to an end. Since 2009, the experience of various trainings.
 
+***
+
