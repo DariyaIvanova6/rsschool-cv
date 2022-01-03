@@ -10,7 +10,7 @@
 html,
 body {
     font-family: Roboto;
-    color: #252B42;
+    color: #23345C;
     font-weight: 500;
 }
 
@@ -44,14 +44,14 @@ a {
     margin: 0 auto;
     width: 1400px;
     overflow: hidden;
-    background: #f7aedb;
+    background: #F1BA48;
 }
 
 .main__wrapper {
     margin: 0 auto;
     width: 1400px;
     overflow: hidden;
-    background: #f7aedb;
+    background: #F1BA48;
     display: flex;
 }
 
@@ -59,7 +59,7 @@ a {
     margin: 0 auto;
     width: 1400px;
     overflow: hidden;
-    background: #f7aedb;
+    background: #F1BA48;
     display: flex;
 }
 
@@ -117,8 +117,7 @@ a {
 .header__logo {
     display: flex;
     overflow: hidden;
-    margin: 30px 200px;
-    
+    margin: 30px 250px;
 }
 
 .header__image {
@@ -146,18 +145,13 @@ a {
     flex-direction: column;
     align-items: center;
     line-height: 2;
-    font-weight: bold;
 }
 
 .left__information-block {}
 
 .info__items {}
 
-.mail__title {
-}
-.html__title {
-    
-}
+.mail__title {}
 
 .email {}
 
@@ -165,29 +159,17 @@ a {
 
 .github {}
 
-.css__title {
-    
-}
+.css__title {}
 
-.figma__title {
-    
-}
+.figma__title {}
 
-.ps__title {
-    
-}
+.ps__title {}
 
-.git__title {
-    
-}
+.git__title {}
 
-.rus__title {
-    
-}
+.rus__title {}
 
-.eng__title {
-    
-}
+.eng__title {}
 
 .education {
     display: flex;
@@ -202,9 +184,7 @@ a {
 
 .text {}
 
-.other {
-    
-}
+.other {}
 
 .right__other-block {}
 
